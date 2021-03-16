@@ -1,0 +1,14 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "launch": {
+
+    "configurations": [],
+    "compounds": []
+  },
+  "git.enabled": true,
+    "git.path": "C:\\Users\\Dipan.Patel\\AppData\\Local\\Programs\\Git\\cmd\\git.exe"
+}
